@@ -1,6 +1,6 @@
 {
-  "name": "bingo-soft/phpdocxtemplate",
-  "description": "PHP library which uses docx files as Twig templates",
+  "name": "dario-santos/phpdocxtemplate",
+  "description": "PHP library which uses docx files as Twig templates. This is a fork of bingo-soft/phpdocxtemplate",
   "keywords": ["php", "docx", "report", "reporting", "template", "twig"],
   "license": "MIT",
   "type": "project",
@@ -17,7 +17,7 @@
   "require": {
     "ext-zip": "*",
     "ext-dom": "*",
-    "php": "^8.0",
+    "php": "^8.3",
     "endroid/qr-code": "^4.4",
     "twig/twig": "^3.3"
   },
