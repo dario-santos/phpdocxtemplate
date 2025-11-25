@@ -30,6 +30,8 @@ $template->save("./documents/report.docx");
 
 ## Acknowledgements
 
+THIS IS A FORK OF `bingo-soft/phpdocxtemplate`!!!
+
 PhpDocxTemplate draws inspiration from [python-docx-template](https://github.com/elapouya/python-docx-template) and [PhpWord](https://github.com/PHPOffice/PHPWord) libraries.
 
 ## License

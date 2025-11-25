@@ -17,13 +17,12 @@
   "require": {
     "ext-zip": "*",
     "ext-dom": "*",
-    "php": "^7.4",
+    "php": "^8.0",
     "endroid/qr-code": "^4.4",
     "twig/twig": "^3.3"
   },
   "require-dev": {
-    "doctrine/coding-standard": "^6.0",
-    "squizlabs/php_codesniffer": "3.*",
+    "doctrine/coding-standard": "^14.0",
     "phpunit/phpunit": "^8"
   },
   "autoload": {
